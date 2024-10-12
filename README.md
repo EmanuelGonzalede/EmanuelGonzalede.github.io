@@ -1,4 +1,4 @@
-#Freelancer Emanuel GL
+Freelancer Emanuel GL
 
 <p>
 ¡Hola! Soy un desarrollador web en formación, apasionado por la tecnología y el diseño de soluciones creativas. Estoy iniciando mi camino en el mundo del desarrollo web, aprendiendo a crear sitios y aplicaciones que sean tanto funcionales como visualmente atractivos. Me entusiasma seguir creciendo, adquirir nuevas habilidades y enfrentar nuevos desafíos en este emocionante campo. ¡Bienvenido a mi espacio en la web!
